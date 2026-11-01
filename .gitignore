@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Real pairing data must never end up in the repository
+info
+info.bak-*
+SYSTEM
+SYSTEM.LOG*
+state.json
